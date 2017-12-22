@@ -1,7 +1,7 @@
 # Part 3
 ## Changelog
 1. Installed redux, then react-redux (ensure you know why redux is used, and how
-it is commonly used [Click here for some answers](https://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/))
+it is commonly used. [Click here for some answers](https://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/).)
 2. Added index.js files in both actions and reducers folder
 3. Added react-redux set up in setup.js
 4. Added actions for input components, updated index.js file
