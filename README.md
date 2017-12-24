@@ -22,6 +22,7 @@ Rather than being a novel, standalone library, this project is loaded with vario
 7. [Nachos UI-0.1.2](https://github.com/avocode/nachos-ui)
 
 ## Usage
+> Important note: after downloading the project, remember to clean the project and rebuild/recompile to run successfully.
 1. Head [here](https://facebook.github.io/react-native/docs/getting-started.html) to get started with the installation process of various dependencies
 2. Decide on a code editor, such as [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/), [Sublime Text 3](https://www.sublimetext.com/3). Install a [linter](https://eslint.org/) for your code editor to help with getting your syntax right
 3. You can proceed in either of the two directions
