@@ -13,20 +13,25 @@ Rather than being a novel, standalone library, this project is loaded with vario
 
 ## Features you will learn to implement
 > For the most part of these features, installation can be done by a simple npm install.
+
 Part 1:
-1. [react-native-0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0-rc.0)
-2. [Nachos UI-0.1.2](https://github.com/avocode/nachos-ui)
+[React Native](https://github.com/facebook/react-native/releases/tag/v0.51.0-rc.0), 
+[Nachos UI](https://github.com/avocode/nachos-ui)
+
 Part 2:
 -/-
+
 Part 3:
-3. [react-redux-5.0.6](https://github.com/reactjs/react-redux)
+[React Redux](https://github.com/reactjs/react-redux), 
+
 Part 4:
-4. [Google Firebase](https://firebase.google.com/)
-5. [Redux-Thunk](https://github.com/gaearon/redux-thunk)
+[Google Firebase](https://firebase.google.com/), 
+[Redux Thunk](https://github.com/gaearon/redux-thunk)
+
 Part 5:
-6. [Native Base](https://github.com/GeekyAnts/NativeBase)
-7. [Animatable](https://github.com/oblador/react-native-animatable)
-8. [Kelson-Sans-Font](http://webneel.com/daily/download/7928/3/Kelson%20Sans?title=Download%2026%20Free%20Professional%20Fonts%20for%20Designers&nid=8685)
+[Native Base](https://github.com/GeekyAnts/NativeBase), 
+[Animatable](https://github.com/oblador/react-native-animatable), 
+[Kelson Sans Font](http://webneel.com/daily/download/7928/3/Kelson%20Sans?title=Download%2026%20Free%20Professional%20Fonts%20for%20Designers&nid=8685)
 
 ## Usage
 > Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
