@@ -13,20 +13,25 @@ Rather than being a novel, standalone library, this project is loaded with vario
 
 ## Features you will learn to implement
 > For the most part of these features, installation can be done by a simple npm install.
+Part 1:
 1. [react-native-0.51.0](https://github.com/facebook/react-native/releases/tag/v0.51.0-rc.0)
-2. [react-native-maps-0.18.3](https://github.com/react-community/react-native-maps)
-3. [react-native-image-picker-0.26.7](https://github.com/react-community/react-native-image-picker)
-4. [react-native-fetch-blob-0.10.8](https://github.com/wkh237/react-native-fetch-blob) 
-5. [react-redux-5.0.6](https://github.com/reactjs/react-redux)
-6. [Google Firebase](https://firebase.google.com/)
-7. [Nachos UI-0.1.2](https://github.com/avocode/nachos-ui)
+2. [Nachos UI-0.1.2](https://github.com/avocode/nachos-ui)
+Part 2:
+-/-
+Part 3:
+3. [react-redux-5.0.6](https://github.com/reactjs/react-redux)
+Part 4:
+4. [Google Firebase](https://firebase.google.com/)
+5. [Redux-Thunk](https://github.com/gaearon/redux-thunk)
+Part 5:
+6. [Native Base](https://github.com/GeekyAnts/NativeBase)
+7. [Animatable](https://github.com/oblador/react-native-animatable)
+8. [Kelson-Sans-Font](http://webneel.com/daily/download/7928/3/Kelson%20Sans?title=Download%2026%20Free%20Professional%20Fonts%20for%20Designers&nid=8685)
 
 ## Usage
-> Important note: after downloading the project, remember to clean the project and rebuild/recompile to run successfully.
+> Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
 1. Head [here](https://facebook.github.io/react-native/docs/getting-started.html) to get started with the installation process of various dependencies
 2. Decide on a code editor, such as [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/), [Sublime Text 3](https://www.sublimetext.com/3). Install a [linter](https://eslint.org/) for your code editor to help with getting your syntax right
-3. You can proceed in either of the two directions
-  * As each part is fully runnable/buildable, you can download individual parts and explore the app from there
-  * OR you can initialise your own project and install the required new modules, create the additional files required, copy the new chunks of code one by one to see their effect take place step by step and stack over one another (**HIGHLY RECOMMENDED**)
+3. Initialise your own project and install the required new modules, copy the source files over. Alternatively, you can follow the changelog in each part to copy over the codes one by one to see their effect take place step by step and stack over one another (**HIGHLY RECOMMENDED**)
 4. In the latter's case, a README file will be attached to each part to inform you on the newly added features, blocks of codes, modules installed as well as the order in which you perform those tasks.
 5. Last by not least, feel free to post an issue upon encountering a bug/mistake or any queries!
