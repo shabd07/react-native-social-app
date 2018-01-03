@@ -22,7 +22,7 @@ Part 2:
 -/-
 
 Part 3:
-[React Redux](https://github.com/reactjs/react-redux), 
+[React Redux](https://github.com/reactjs/react-redux)
 
 Part 4:
 [Google Firebase](https://firebase.google.com/), 
@@ -32,6 +32,9 @@ Part 5:
 [Native Base](https://github.com/GeekyAnts/NativeBase), 
 [Animatable](https://github.com/oblador/react-native-animatable), 
 [Kelson Sans Font](http://webneel.com/daily/download/7928/3/Kelson%20Sans?title=Download%2026%20Free%20Professional%20Fonts%20for%20Designers&nid=8685)
+
+Part 6:
+[React-Native-Multi-Slider](https://github.com/ptomasroos/react-native-multi-slider)
 
 ## Usage
 > Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
