@@ -36,6 +36,9 @@ Part 5:
 Part 6:
 [React-Native-Multi-Slider](https://github.com/ptomasroos/react-native-multi-slider)
 
+Part 7:
+[React-Native-Image-Picker](https://github.com/react-community/react-native-image-picker)
+
 ## Usage
 > Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
 1. Head [here](https://facebook.github.io/react-native/docs/getting-started.html) to get started with the installation process of various dependencies
