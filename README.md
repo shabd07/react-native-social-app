@@ -41,6 +41,7 @@ Part 7:
 
 Part 7:
 [React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
+[React-Native-Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
 
 ## Usage
 > Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
