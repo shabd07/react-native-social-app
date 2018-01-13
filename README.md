@@ -39,6 +39,9 @@ Part 6:
 Part 7:
 [React-Native-Image-Picker](https://github.com/react-community/react-native-image-picker)
 
+Part 7:
+[React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
+
 ## Usage
 > Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
 1. Head [here](https://facebook.github.io/react-native/docs/getting-started.html) to get started with the installation process of various dependencies
