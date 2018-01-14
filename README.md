@@ -40,7 +40,7 @@ Part 7:
 [React-Native-Image-Picker](https://github.com/react-community/react-native-image-picker)
 
 Part 7:
-[React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux)
+[React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux), 
 [React-Native-Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
 
 ## Usage
