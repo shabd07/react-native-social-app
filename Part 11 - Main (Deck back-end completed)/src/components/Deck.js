@@ -48,6 +48,9 @@ class Deck extends Component {
         userkey = [];
         deck = [];
         const childSnapShot = (snapshot) => {
+            // Ensures that we do not display our own profile
+            // Also implies that sometimes our deck will only show 
+            // a maximum of nine items.
             if (snapshot.key !== this.props.user.uid) {
                 userkey.push(snapshot.key);
             }
