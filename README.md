@@ -39,9 +39,12 @@ Part 6:
 Part 7:
 [React-Native-Image-Picker](https://github.com/react-community/react-native-image-picker)
 
-Part 7:
+Part 8:
 [React-Native-Router-Flux](https://github.com/aksonov/react-native-router-flux), 
 [React-Native-Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
+
+Part 11:
+[React-Native-Timer](https://github.com/fractaltech/react-native-timer)
 
 ## Usage
 > Important note: Each part will contain all the necessary source files, with the exception of node_modules. Depending on the part installed, npm install the required modules.
