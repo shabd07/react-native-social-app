@@ -1,4 +1,4 @@
-# React-Native-Basic-App
+# React-Native-Social-App
 
 ## About
 Given the era shifting towards e-commerce, individuals may find themselves in a position where they need to design a mobile app for **both** iOS and Android devices for their start-up purposes. Rather than outsourcing this job, it is this project's aim to ease this process to a level where new coders are able to build an app for both platforms, while not easily but with sufficient effort invested. This is done by dividing the numerous features of an app into pieces for users to **implement one at a time**, and **integrate together** at a **manageable pace** so that users will be have an easier time understanding the process of building a mobile app.
