@@ -1,0 +1,49 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true,
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "indent": 0,
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-tabs": 0,
+        "max-len": 0,
+        "object-curly-newline": 0,
+        "react/jsx-closing-tag-location": false,
+        "no-mixed-spaces-and-tabs": 0,
+        "react/jsx-filename-extension": false,
+        "react/prefer-stateless-function": false,
+        "react/jsx-indent": false,
+        "react/jsx-no-bind": false,
+        "react/jsx-indent-props": false,
+        "react/prop-types": false,
+        "import/no-named-as-default": 0,
+        "import/no-named-as-default-member": 0,
+        "react/no-string-refs":false,
+        "no-mixed-operators":0,
+        "global-require":0,
+        "no-console":0
+    }
+}
